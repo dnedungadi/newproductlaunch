@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_form_sections form_id="9553ce43dbe8b010e66fcc303996197a" sys_domain="global" table="x_600088_new_produ_new_product" version="3">
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-06-09 13:18:54</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>ad53c283dbe8b010e66fcc303996195b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_600088_new_produ_new_product" name="x_600088_new_produ_new_product" sys_domain="global" view="da257b04c927101091f9f06464832723">9553ce43dbe8b010e66fcc303996197a</sys_ui_form>
+            <sys_ui_section caption="NULL" display_value="" name="x_600088_new_produ_new_product" sys_domain="global" view="da257b04c927101091f9f06464832723">dd53c283dbe8b010e66fcc3039961935</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-06-09 13:18:54</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-06-09 13:18:54</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>a953c283dbe8b010e66fcc3039961971</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_600088_new_produ_new_product" name="x_600088_new_produ_new_product" sys_domain="global" view="da257b04c927101091f9f06464832723">9553ce43dbe8b010e66fcc303996197a</sys_ui_form>
+            <sys_ui_section caption="Notes" display_value="Notes" name="x_600088_new_produ_new_product" sys_domain="global" view="da257b04c927101091f9f06464832723">a153c283dbe8b010e66fcc303996196b</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-06-09 13:18:54</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-06-09 13:18:54</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>a953c283dbe8b010e66fcc303996196a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_600088_new_produ_new_product" name="x_600088_new_produ_new_product" sys_domain="global" view="da257b04c927101091f9f06464832723">9553ce43dbe8b010e66fcc303996197a</sys_ui_form>
+            <sys_ui_section caption="Closure Information" display_value="Closure Information" name="x_600088_new_produ_new_product" sys_domain="global" view="da257b04c927101091f9f06464832723">2d53c283dbe8b010e66fcc3039961963</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-06-09 13:18:54</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-06-09 13:18:54</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>d153c283dbe8b010e66fcc3039961935</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_600088_new_produ_new_product" name="x_600088_new_produ_new_product" sys_domain="global" view="da257b04c927101091f9f06464832723">9553ce43dbe8b010e66fcc303996197a</sys_ui_form>
+            <sys_ui_section caption="Major Case Information" display_value="Major Case Information" name="x_600088_new_produ_new_product" sys_domain="global" view="da257b04c927101091f9f06464832723">1553ce43dbe8b010e66fcc303996197d</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-06-09 13:18:54</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-06-09 13:18:54</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>2553c283dbe8b010e66fcc3039961963</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_600088_new_produ_new_product" name="x_600088_new_produ_new_product" sys_domain="global" view="da257b04c927101091f9f06464832723">9553ce43dbe8b010e66fcc303996197a</sys_ui_form>
+            <sys_ui_section caption="Related Records" display_value="Related Records" name="x_600088_new_produ_new_product" sys_domain="global" view="da257b04c927101091f9f06464832723">a553c283dbe8b010e66fcc303996195c</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-06-09 13:18:54</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form action="INSERT_OR_UPDATE">
+            <name>x_600088_new_produ_new_product</name>
+            <roles/>
+            <sys_class_name>sys_ui_form</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-06-09 13:18:53</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>9553ce43dbe8b010e66fcc303996197a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_600088_new_produ_new_product</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="New Product Launch" source="x_600088_new_produ">06ccfd8bdb68b010e66fcc30399619cf</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="New Product Launch">06ccfd8bdb68b010e66fcc30399619cf</sys_scope>
+            <sys_update_name>sys_ui_form_sections_9553ce43dbe8b010e66fcc303996197a</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-06-09 13:18:53</sys_updated_on>
+            <sys_user/>
+            <view display_value="Workspace" name="workspace">da257b04c927101091f9f06464832723</view>
+            <view_name/>
+        </sys_ui_form>
+    </sys_ui_form_sections>
+</record_update>

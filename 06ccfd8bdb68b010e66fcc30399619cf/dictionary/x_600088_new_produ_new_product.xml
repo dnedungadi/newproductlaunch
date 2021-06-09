@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element extends="sn_customerservice_case" label="New Product" max_length="40" name="x_600088_new_produ_new_product" type="collection">
+        <element attributes="edge_encryption_enabled=true" label="Ingredients " max_length="800" name="ingredients" type="string"/>
+        <element attributes="edge_encryption_enabled=true" choice="3" default="extra_small" label="Pack Size" max_length="40" name="pack_size" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Extra Large" value="extra_large"/>
+                <element inactive_on_update="false" label="Extra Small" value="extra_small"/>
+                <element inactive_on_update="false" label="Large" value="large"/>
+                <element inactive_on_update="false" label="Medium" value="medium"/>
+                <element inactive_on_update="false" label="Small" value="small"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" label="Product Name" max_length="100" name="product_name" type="string"/>
+        <element label="Weight" max_length="15" name="weight" type="decimal"/>
+    </element>
+</database>

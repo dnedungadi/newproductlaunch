@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_package_dependency_m2m">
+    <sys_package_dependency_m2m action="INSERT_OR_UPDATE">
+        <dependency display_value="Customer Service" source="sn_customerservice">51d811fad7223100b7490ee60e61034f</dependency>
+        <min_version>19.2.7</min_version>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-06-09 13:13:37</sys_created_on>
+        <sys_id>8c228203dbe8b010e66fcc3039961916</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_package display_value="New Product Launch" source="x_600088_new_produ">06ccfd8bdb68b010e66fcc30399619cf</sys_package>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-06-09 13:13:37</sys_updated_on>
+    </sys_package_dependency_m2m>
+</record_update>
